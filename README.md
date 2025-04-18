@@ -1,6 +1,6 @@
 # Processed Document Calendar Event Extractor
 
-Process to extract calendar events from unstructured {loose) marked down files using a local LLM (via Ollama), and push them to Google Calendar.
+Extract calendar events from unstructured (loose) marked down files using a local LLM (via Ollama), and push them to target Google Calendar.
 
 ## Setup
 
